@@ -1,0 +1,15 @@
+# Site settings
+title: Rachel Velasco
+description: Portfolio Website
+baseurl: ""
+# url: "localhost:3000" 
+
+# User settings
+username: Rachel Velasco
+user_description: Hi, I'm Rachel! I am currently into penetration testing with interest in transportation and satellite security. I'm based in the Charlotte, NC area for now.
+user_title: Penetration Tester
+email: hello@rachvelas.co
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
